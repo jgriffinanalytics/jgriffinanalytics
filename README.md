@@ -17,6 +17,6 @@ I like taking messy, real-world data and turning it into something a decision-ma
 
 ## Contact
 
-- [Resume (PDF)](Jack Griffin Resume (July 2026).pdf)
+- [Resume (PDF)](Jack_Griffin_Resume_July_2026.pdf)
 - [LinkedIn](https://www.linkedin.com/in/jack22griffin/)
 - jgriffin.analytics@gmail.com
