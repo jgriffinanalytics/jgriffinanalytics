@@ -13,7 +13,6 @@ I like taking messy, real-world data and turning it into something a decision-ma
 ## Tools I Work With
 
 **Languages:** R, Python, SQL
-
 **Analytics & BI:** Power BI, Databricks, Alteryx, Visier, Excel (Expert Certified), PowerPoint
 
 ## Contact
