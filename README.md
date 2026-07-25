@@ -2,7 +2,7 @@
 
 Data analyst based in the Tampa area. I graduated from the University of Central Florida in May 2026 with a B.S.B.A. in Economics and a minor in Statistics, and I spent last summer as a People Analytics Intern at Newell Brands building forecasting models in Databricks and Power BI dashboards for IT and HR leadership.
 
-I like taking messy, real-world data and turning it into something a decision-maker can actually use. Outside of work, I follow sports analytics and the stock market very closely.
+I like taking messy, real-world data and turning it into something a decision-maker can actually use. Outside of work, I follow sports analytics, business newsletters, and the stock market very closely.
 
 ## Projects
 
